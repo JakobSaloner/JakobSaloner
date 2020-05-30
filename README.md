@@ -1,6 +1,7 @@
 # JakobSaloner
 JakobSaloner's Lab F
-Hello! This is my project.
+Hello!
+This is my project.
 I chose my favorite places in California for this project, as I really love my home state!
 1. UCSB
 2. Yosemite National Park
